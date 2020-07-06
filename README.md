@@ -20,3 +20,4 @@ Conclusions:
 Future Work:
 - Would be interesting to compare these tweets with tweets about Trump around this time in 2016
 - Build classification model and/or neural network to differentiate tweets by different candidates
+ 
